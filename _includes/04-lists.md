@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Reading
+  * History
+  * Fiction
+  * Graphic Novels
+* Bicycling
+  * Touring
+  * Gravel
+* Cooking
