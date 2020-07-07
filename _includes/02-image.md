@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Avatar of GitHub user](https://www.publicdomainpictures.net/pictures/200000/velka/white-bike.jpg)
